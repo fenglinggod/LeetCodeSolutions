@@ -6,3 +6,4 @@ LeetCode Solutions
 [4.寻找两个有序数组的中位数](https://github.com/fenglinggod/LeetCodeSolutions/tree/master/solutions/04)   
 [5.最长回文子串](https://github.com/fenglinggod/LeetCodeSolutions/tree/master/solutions/05)   
 [6.Z 字形变换](https://github.com/fenglinggod/LeetCodeSolutions/tree/master/solutions/06)   
+[7.整数反转](https://github.com/fenglinggod/LeetCodeSolutions/tree/master/solutions/07)    
